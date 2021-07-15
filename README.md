@@ -1,2 +1,2 @@
 # SensitiveInfo
-接口脱敏
+接口、日志脱敏
